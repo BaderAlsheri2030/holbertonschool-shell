@@ -1,3 +1,2 @@
-chmod +x 14-change_owner_and_group
-cp 14-change_owner_and_group /tmp/
-chmod +x /tmp/14-change_owner_and_group
+#!/bin/bash
+chown vincent:staff *
